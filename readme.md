@@ -1,4 +1,4 @@
-git clone https://github.com/ftresfi/CleanUbuntu.git
+sudo git clone https://github.com/ftresfi/CleanUbuntu.git
 
 cd CleanUbuntu
 
